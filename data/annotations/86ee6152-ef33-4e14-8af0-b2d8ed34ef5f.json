@@ -1,0 +1,18 @@
+{
+  "event_id": "c5ace804-d6c5-408e-90e6-d74d9aa93fad",
+  "source_id": "4a181372-bab8-41de-951f-ba3539c4cb4f",
+  "set": "English [Transcript]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "https://d9jk7wjtjpu5g.cloudfront.net/file_transcripts/associated_files/000/017/088/original/mssa_hvt_237_p1of2_caption.vtt?1637069904"
+        }
+      ],
+      "tags": [],
+      "uuid": "a465f8f7-d766-40be-9ae7-8c5ee2622001"
+    }
+  ]
+}
