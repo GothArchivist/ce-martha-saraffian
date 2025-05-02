@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "GothArchivist",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13787883?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "GothArchivist",
     "is_private": false,
@@ -22,6 +28,26 @@
       "tags": []
     },
     "created_at": "2025-05-02T16:17:12.886Z",
-    "updated_at": "2025-05-02T16:17:12.886Z"
-  }
+    "updated_at": "2025-05-02T16:17:12.886Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "cf092cd1-bfb7-4948-a79b-68cbb7928c7a": {
+      "content": [],
+      "created_at": "2025-05-02T16:17:12.925Z",
+      "created_by": "GothArchivist",
+      "title": "Martha Saraffian's Critical Edition",
+      "updated_at": "2025-05-02T16:17:12.925Z",
+      "updated_by": "GothArchivist",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "cf092cd1-bfb7-4948-a79b-68cbb7928c7a"
+  ]
 }
