@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "6bf0ddbb-dc9e-4738-8350-3ac2c1b8d4a3": {
+      "label": "AV File 2",
+      "file_url": "https://aviary-p-fortunoff.s3.wasabisys.com/collection_resource_files/resource_files/000/094/895/original/open-uri20200721-25675-15ovb4.mov?1595318276",
+      "duration": 1994.92833
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-07T16:26:05.068Z",
+  "created_by": "GothArchivist",
+  "item_type": "Video",
+  "label": "Martha S. Holocaust testimony",
+  "updated_at": "2025-05-07T16:26:05.068Z",
+  "updated_by": "GothArchivist"
+}
