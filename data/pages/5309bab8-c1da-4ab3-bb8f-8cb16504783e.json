@@ -541,9 +541,16 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "image",
-      "url": "https://yaleedu-my.sharepoint.com/:i:/r/personal/christy_tomecek_yale_edu/Documents/AVAnnotatePictures/GoogleStreetView.jpg?csf=1&web=1&e=UDTzhc",
-      "caption": "House at Polská 98 (formerly Reichstraße 5) in 2020 as seen from the street. In its substance this seems to be still the same building that the Kummermann and Saraffian families lived in and where the Kummermann company was located (source: Google Street View).",
+      "url": "https://yaleedu-my.sharepoint.com/:i:/g/personal/christy_tomecek_yale_edu/EalsbAvZLBpDgvBrajoLgPQB5EZknkgE2PilaQ_-1yq2HA?e=1fwxH3",
       "children": [
         {
           "text": ""
@@ -1317,6 +1324,6 @@
   "slug": "introduction-to-the-testimony-of-martha-saraf",
   "created_at": "2025-05-07T18:07:07.765Z",
   "created_by": "GothArchivist",
-  "updated_at": "2025-05-07T20:49:57.374Z",
+  "updated_at": "2025-05-07T20:53:44.891Z",
   "updated_by": "GothArchivist"
 }
