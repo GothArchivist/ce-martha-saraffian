@@ -15,20 +15,7 @@
         {
           "text": "HVT-237",
           "textSize": "small"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+        },
         {
           "text": "Introduction",
           "textSize": "heading-two"
@@ -170,20 +157,7 @@
         {
           "text": "[9]",
           "textSize": "small"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+        },
         {
           "text": "Bohemian Jews, the Kummermann Family and the new Czechoslovakian State",
           "textSize": "heading-two"
@@ -193,9 +167,6 @@
     {
       "type": "paragraph",
       "children": [
-        {
-          "text": "\n"
-        },
         {
           "text": "[10] ",
           "textSize": "small"
@@ -408,7 +379,25 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "       Obituary announcing Emanuel Kummermann's death. Several of his children and children-in-law were murdered in the Holocaust, including his daughter Ida Freund and his daughter-in-law Elvira Kummermann (Source: Prager Tagblatt, May 26, 1906, 18)."
+          "text": "       "
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://yaleedu-my.sharepoint.com/:i:/r/personal/christy_tomecek_yale_edu/Documents/AVAnnotatePictures/KummermannObit.png?csf=1&web=1&e=d077W2",
+      "caption": "Obituary announcing Emanuel Kummermann's death. Several of his children and children-in-law were murdered in the Holocaust, including his daughter Ida Freund and his daughter-in-law Elvira Kummermann (Source: Prager Tagblatt, May 26, 1906, 18).",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -453,7 +442,33 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n   The central town square of Trautenau/Trutnov in the early 20th century. (Source: Author's private collection)\n\t"
+          "text": "\n   "
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://yaleedu-my.sharepoint.com/:i:/r/personal/christy_tomecek_yale_edu/Documents/AVAnnotatePictures/TrutnovSquare.jpg?csf=1&web=1&e=AJCfEP",
+      "caption": "The central town square of Trautenau/Trutnov in the early 20th century. (Source: Author's private collection)",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\t"
         }
       ]
     },
@@ -521,7 +536,25 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\tHouse at Polská 98 (formerly Reichstraße 5) in 2020 as seen from the street. In its substance this seems to be still the same building that the Kummermann and Saraffian families lived in and where the Kummermann company was located (source: Google Street View)."
+          "text": "\t"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://yaleedu-my.sharepoint.com/:i:/r/personal/christy_tomecek_yale_edu/Documents/AVAnnotatePictures/GoogleStreetView.jpg?csf=1&web=1&e=UDTzhc",
+      "caption": "House at Polská 98 (formerly Reichstraße 5) in 2020 as seen from the street. In its substance this seems to be still the same building that the Kummermann and Saraffian families lived in and where the Kummermann company was located (source: Google Street View).",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -605,10 +638,32 @@
       ]
     },
     {
+      "type": "image",
+      "url": "https://yaleedu-my.sharepoint.com/:i:/r/personal/christy_tomecek_yale_edu/Documents/AVAnnotatePictures/Recipe.jpg?csf=1&web=1&e=xVoqvF",
+      "caption": "A recipe for \"Turkish style Spinach\" by Martha Saraffian, printed in the Prager Tagblatt newspaper on August 29, 1936.",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
-          "text": "\tA recipe for \"Turkish style Spinach\" by Martha Saraffian, printed in the Prager Tagblatt newspaper on August 29, 1936."
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\t"
+        },
+        {
+          "text": "A recipe for \"Turkish style Spinach\" by Martha Saraffian, printed in the Prager Tagblatt newspaper on August 29, 1936.",
+          "bold": true
         }
       ]
     },
@@ -1254,6 +1309,6 @@
   "slug": "introduction-to-the-testimony-of-martha-saraf",
   "created_at": "2025-05-07T18:07:07.765Z",
   "created_by": "GothArchivist",
-  "updated_at": "2025-05-07T20:39:04.364Z",
+  "updated_at": "2025-05-07T20:47:42.170Z",
   "updated_by": "GothArchivist"
 }
