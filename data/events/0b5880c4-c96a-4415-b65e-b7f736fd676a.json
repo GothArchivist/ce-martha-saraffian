@@ -3,7 +3,12 @@
     "47518943-052a-4eb2-830c-eb52cd6e7043": {
       "label": "AV File 2",
       "file_url": "https://aviary-p-fortunoff.s3.wasabisys.com/collection_resource_files/resource_files/000/094/895/original/open-uri20200721-25675-15ovb4.mov?1595318276",
-      "duration": 1994.92833
+      "duration": 1995,
+      "caption_set": [
+        {
+          "annotation_page_id": "9f65d34a-1338-46d9-a8ac-06ea4c58c0b7"
+        }
+      ]
     }
   },
   "auto_generate_web_page": true,
@@ -12,7 +17,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Part 2 of the testimony."
         }
       ]
     }
@@ -21,6 +26,6 @@
   "created_by": "GothArchivist",
   "item_type": "Video",
   "label": "Martha S. Holocaust testimony",
-  "updated_at": "2025-05-07T15:44:40.083Z",
+  "updated_at": "2025-05-07T15:49:37.696Z",
   "updated_by": "GothArchivist"
 }
