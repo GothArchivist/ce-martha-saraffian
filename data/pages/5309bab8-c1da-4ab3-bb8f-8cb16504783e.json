@@ -561,47 +561,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\t"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://yaleedu-my.sharepoint.com/:i:/g/personal/christy_tomecek_yale_edu/EalsbAvZLBpDgvBrajoLgPQB5EZknkgE2PilaQ_-1yq2HA?e=1fwxH3",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Another interesting detail from the 1921 census is the national affiliation of the Kummermann family. Independent Czechoslovakia had adopted, by and large, the Imperial Austrian system of national self-identification based on everyday language. However, for the 1921 census the authorities also introduced the option of \"Jewish\" as a national affiliation."
         },
         {
@@ -842,7 +801,8 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "<iframe src=\"https://fortunoff.aviaryplatform.com/embed/media/94894?media=94894&t=3135&e=3178\" allow=\"fullscreen\" frameborder=\"0\"></iframe>"
+          "text": "<iframe src=\"https://fortunoff.aviaryplatform.com/embed/media/94894?media=94894&t=3135&e=3178\" allow=\"fullscreen\" frameborder=\"0\"></iframe>",
+          "code": true
         }
       ]
     },
@@ -1345,6 +1305,6 @@
   "slug": "introduction-to-the-testimony-of-martha-saraf",
   "created_at": "2025-05-07T18:07:07.765Z",
   "created_by": "GothArchivist",
-  "updated_at": "2025-05-08T13:09:08.519Z",
+  "updated_at": "2025-05-08T13:12:50.275Z",
   "updated_by": "GothArchivist"
 }
