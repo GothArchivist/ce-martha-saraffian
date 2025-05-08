@@ -13,8 +13,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "HVT-237",
-          "textSize": "small"
+          "textSize": "small",
+          "text": "HVT-237"
         },
         {
           "text": "Introduction",
@@ -793,16 +793,22 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "I feared for my daughter. So I signed that my children are Christian. And I was not punished, and maybe didn't realize that I have a Jewish child in the-- in the internation camp. But this Jewish child, the pastor fought so so much to get her back and he got her back and he took her in his house. This pastorthat was already punished from the Gestapo, helping Jews. And he kept my daughter till the end of the war."
+          "text": "I feared for my daughter. So I signed that my children are Christian. And I was not punished, and maybe didn't realize that I have a Jewish child in the-- in the internation camp. But this Jewish child, the pastor fought so so much to get her back and he got her back and he took her in his house. This pastor that was already punished from the Gestapo, helping Jews. And he kept my daughter till the end of the war."
         }
       ]
     },
     {
-      "type": "block-quote",
+      "type": "paragraph",
       "children": [
         {
+          "text": "\n"
+        },
+        {
           "text": "<iframe src=\"https://fortunoff.aviaryplatform.com/embed/media/94894?media=94894&t=3135&e=3178\" allow=\"fullscreen\" frameborder=\"0\"></iframe>",
-          "code": true
+          "link": "<iframe src=\"https://fortunoff.aviaryplatform.com/embed/media/94894?media=94894&t=3135&e=3178\" allow=\"fullscreen\" frameborder=\"0\"></iframe>"
+        },
+        {
+          "text": "\n"
         }
       ]
     },
@@ -1305,6 +1311,6 @@
   "slug": "introduction-to-the-testimony-of-martha-saraf",
   "created_at": "2025-05-07T18:07:07.765Z",
   "created_by": "GothArchivist",
-  "updated_at": "2025-05-08T13:12:50.275Z",
+  "updated_at": "2025-05-08T14:42:55.251Z",
   "updated_by": "GothArchivist"
 }
