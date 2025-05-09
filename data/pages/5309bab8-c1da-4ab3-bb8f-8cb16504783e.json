@@ -86,6 +86,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "This testimony sheds light on a chapter in the persecution of mixed marriages that hitherto has been largely ignored: the experiences of intermarried Jews in the peripheries of the \"Greater German Reich,\" outside the large urban centers, and in occupied Czechoslovakia in particular."
         },
         {
@@ -564,10 +572,26 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "block-quote",
       "children": [
         {
           "text": "[…] my father sent-- sent us to France to learn-- to learn French. And I learned millinery, and […] my sister was studying in French. And we went off to Prague and even to Austria, to Vienna. We had really a nice youth. My father was well off and he wanted that we learn-- I was also in Germany in business school one year. And, uh, then […] I had the millinery diploma I made in small business. In my father's house, he gave me two rooms. And I had-- I made-- I had three girls employed and I made these hats. Not-- not-- I didn't must to do it, but I liked it."
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -658,10 +682,26 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "block-quote",
       "children": [
         {
           "text": "And then when I met my husband and I married, so I gave up the business and we moved in a nice apartment. We had-- when my daughter was born, we had the dog and bird and the-- we had the house housekeeper. It was really a nice life. We had a car and sometimes we went by car to Vienna. And really, it was a nice life."
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -737,10 +777,26 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "block-quote",
       "children": [
         {
           "text": "He came to Germany, with a transport, children. What—what were left after a massacre. When the Turks massacred the Armenians, he came to-- to Germany. With an-- it's like a self-help organization what brought this children to Germany. He came there with about four sisters and brothers. He never saw them again because they were all placed in another foster home. So he-- he searched, but he didn't get any-- he didn't see any of his family. Only one uncle was in Köln am Rhein and he had the business with stamps. That was the only connection he got. And he was alone and he told me this story."
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -823,6 +879,14 @@
       "children": [
         {
           "text": "The file card states Noemi's religion as Bohemian Evangelical, rather than Jewish, as in previous documents. In the testimony we learn the background:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -1338,38 +1402,6 @@
           "text": ""
         }
       ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": " "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
     }
   ],
   "title": "Introduction to the Testimony of Martha Saraffian",
@@ -1381,6 +1413,6 @@
   "slug": "introduction-to-the-testimony-of-martha-saraf",
   "created_at": "2025-05-07T18:07:07.765Z",
   "created_by": "GothArchivist",
-  "updated_at": "2025-05-09T13:42:44.205Z",
+  "updated_at": "2025-05-09T13:47:56.221Z",
   "updated_by": "GothArchivist"
 }
