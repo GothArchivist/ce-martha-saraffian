@@ -3,10 +3,10 @@
   "created_at": "2025-05-02T16:17:12.925Z",
   "created_by": "GothArchivist",
   "title": "Martha Saraffian's Critical Edition",
-  "updated_at": "2025-05-09T17:31:49.483Z",
+  "updated_at": "2025-05-09T17:50:06.203Z",
   "updated_by": "GothArchivist",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
